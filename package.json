@@ -1,0 +1,23 @@
+{
+  "name": "three-stuff",
+  "version": "1.0.0",
+  "description": "stuff for three.js",
+  "main": "dev/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "chokidar": "^3.4.0",
+    "express": "^4.17.1",
+    "filesize": "^6.1.0",
+    "performance-now": "^2.1.0",
+    "prompts": "^2.3.2",
+    "rollup": "^2.18.0"
+  }
+}
